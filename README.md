@@ -263,7 +263,7 @@
 - [VueJS Translations Ukraine](https://t.me/vuejs_ukraine) - Telegram Group (Ukraine)
 - [VueJS Kenya - Twitter Account](https://twitter.com/KenyaVue)
 - [VueJS Magyar - Facebook Group [Hungarian]](https://www.facebook.com/groups/huvuejs/)
-- [VueJS Bangladesh - Facebook Group] (https://www.facebook.com/groups/764064325433370)
+- [VueJS Bangladesh - Facebook Group](https://www.facebook.com/groups/764064325433370)
 
 ### Conferences
 
@@ -1611,7 +1611,6 @@ _Toaster / snackbar — Notify the user with a modeless temporary little popup_
 
 _Loaders / spinners / progress bars — Let the user know that something is loading_
 
-- [vue-radial-progress](https://github.com/wyzant-dev/vue-radial-progress) - Radial progress bar component for Vue.js.
 - [vue-simple-spinner](https://github.com/dzwillia/vue-simple-spinner) - A simple, flexible spinner for Vue.js
 - [vue-wait](https://github.com/f/vue-wait) - Complex Loader Management for Vue/Vuex and Nuxt applications.
 - [vue-progress-path](https://github.com/Akryum/vue-progress-path) - Customizable progress indicators and spinners that support any custom SVG path.
@@ -1642,6 +1641,7 @@ _Loaders / spinners / progress bars — Let the user know that something is load
 - [vue-img-lazy-tiny](https://github.com/peterroe/vue-img-lazy-tiny) - A vue3 directive that provide a shield while loading.
 - [vue3-ui-preloader](https://github.com/gbast0s/vue3-ui-preloader) - Vue3 Pre Loader components for vue.js projects with playground.
 - [vue-default-page](https://github.com/zero-one-code/vue-default-page) - A Vue 3.0 plugin with built-in v-loading, v-skeleton, v-error and v-empty custom directives.
+- [vue3-radial-progress](https://github.com/jairoblatt/vue3-radial-progress) - Radial progress bar component for Vue 3
 
 ##### Progress Bar
 
@@ -2897,6 +2897,7 @@ _Seamless scrolling_
 - [v-paginator](https://github.com/Sitronik/v-paginator) - Simple page-by-page navigation for Vue.js based on your html templates with ssr support.
 - [vue-use-paginator](https://github.com/Sun0fABeach/vue-use-paginator) - Vue 3 use-hook to reactively paginate data and arrange paginator buttons. Completely renderless.
 - [vueginate](https://github.com/lombervid/vueginate) - A simple pagination component for Vue 3
+- [vue-pagination](https://github.com/asika32764/vue-pagination/) - A non-style pagination with composable that can integrate with any frameworks.
 
 #### Animation
 
